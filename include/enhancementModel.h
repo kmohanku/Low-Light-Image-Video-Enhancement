@@ -11,7 +11,7 @@
 class EnhancementModel{
 	private:
 
-		const std::string model_path;
+	const std::string model_path;
     	const std::string input_node;
     	const std::string output_node;
     	const float max_pixel = 255.0;
