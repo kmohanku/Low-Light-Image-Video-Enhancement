@@ -85,3 +85,4 @@ cd ../bin
 ./video-enhancement <model path> <source video> <destination video>
 
 ```
+Note: cmake needs to be modified for specific libprotobuf library.
