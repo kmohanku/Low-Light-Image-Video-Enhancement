@@ -1,4 +1,4 @@
-# Video Brightening with Zero-DCE
+# Image & Video Brightening with Zero-DCE
 
 This repository consists of 2 parts:
 
