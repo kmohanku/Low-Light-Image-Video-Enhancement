@@ -9,7 +9,7 @@
 #include <vector>
 
 class EnhancementModel{
-	private:
+   private:
 	const std::string model_path;
     	const std::string input_node;
     	const std::string output_node;
